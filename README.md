@@ -1,4 +1,4 @@
-# 🎬 CaptionStudio Pro – Desktop Edition V3
+# 🎬 CaptionStudio Pro – Desktop Edition V4
 
 **Professional video captioning suite with intelligent layout, real‑time preview, and cinematic word animations.**
 
